@@ -19,7 +19,6 @@
 - If you would like to tip me, 
 
 - bitcoin: bc1qtdpw0zy32rlkg0yc73k6cxwrqrf88wvjev430h
-- BAT : 0xc2D7F1606bdf8096789f9709f4209535de4c3Fc5
 - LTC : LZu1vD3WtTrK3zMtZEkgnUaW7iz2XtRwMw
 - ETC : 0x36C11fF35c44653387F3E0e51797a613728e7434
 - ZEC : t1LSiUbRdBXMqcuZpkd4ixHUZ38SN5TM3r5
